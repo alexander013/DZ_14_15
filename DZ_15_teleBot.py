@@ -10,7 +10,7 @@ from skan import dom
 
 
 
-TOKEN = '5616737930:AAFLU_5Bp914JFhOB1DX8wRQZpvg9Dh3-ic'
+TOKEN = 'token'
 
 bot = telebot.TeleBot(TOKEN)
 
